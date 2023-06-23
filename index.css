@@ -1,0 +1,73 @@
+body{
+  background-color:dodgerblue;
+}
+
+img{
+  max-width:40%;
+}
+
+.rows{
+  margin:5rem auto;
+  width: min(90%, 75rem);
+  display:grid;
+  gap:1em
+}
+
+.row1{
+  background-color:dimgray;
+  color:white; 
+  text-align:center;
+}
+
+.row2{
+  background-color:dimgray;
+  color:white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.row3{
+  background-color:dimgray;
+  color:white;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h1{
+  font-family: trebuchet ms;
+  font-size: 50px;
+}
+
+h2{
+  font-family: trebuchet ms;
+  font-size: 20px;
+  line-height: 0.25;
+}
+
+h3{
+  font-family: trebuchet ms;
+  font-size: 30px;
+  text-decoration-line: underline;
+  text-decoration-color:dodgerblue;
+}
+
+p{
+  font-family: trebuchet ms;
+  font-size:15px;
+}
+
+h4{
+  font-family: trebuchet ms;
+  font-size:22px;
+}
+
+h5{
+  font-family: trebuchet ms;
+  font-size: 18px;
+  margin-left: 20px;
+}
+
+li{
+  font-family: trebuchet ms;
+  font-size:15px;
+}
